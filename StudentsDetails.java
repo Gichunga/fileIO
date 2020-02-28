@@ -7,7 +7,7 @@ package studentsdetails;
 
 /**
  *
- * @author Harryx
+ * @author Steve
  */
 import java.util.Scanner;
 import java.io.*;
